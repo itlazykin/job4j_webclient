@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d44c2530-8db9-4154-9e1f-8f5cde03157c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/logs/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/src/main/java/ru/job4j/openfeign/OpenfeignApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/src/main/java/ru/job4j/openfeign/controller/TrackerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/src/main/java/ru/job4j/openfeign/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/src/main/java/ru/job4j/openfeign/service/TrackerProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/src/main/java/ru/job4j/openfeign/service/TrackerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/src/test/java/ru/job4j/openfeign/OpenfeignApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/logs/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/src/main/java/ru/job4j/resttemplate/ResttemplateApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/src/main/java/ru/job4j/resttemplate/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/src/main/java/ru/job4j/resttemplate/controller/TrackerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/src/main/java/ru/job4j/resttemplate/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/src/main/java/ru/job4j/resttemplate/service/TrackerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/src/test/java/ru/job4j/resttemplate/ResttemplateApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/logs/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/src/main/java/ru/job4j/source/SourceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/src/main/java/ru/job4j/source/controller/TrackerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/src/main/java/ru/job4j/source/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/src/main/java/ru/job4j/source/repository/ItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/src/main/java/ru/job4j/source/service/TrackerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/src/test/java/ru/job4j/source/SourceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/logs/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/src/main/java/ru/job4j/webclient/WebclientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/src/main/java/ru/job4j/webclient/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/src/main/java/ru/job4j/webclient/controller/TrackerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/src/main/java/ru/job4j/webclient/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/src/main/java/ru/job4j/webclient/service/TrackerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/src/test/java/ru/job4j/webclient/WebclientApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:itlazykin/job4j_webclient.git",
+    "accountId": "4981c5a9-e612-4602-847d-d5cff4d34bd7"
+  }
+}]]></component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2tZYIqWEorRjsMyQ2dJFjdi8hF4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d44c2530-8db9-4154-9e1f-8f5cde03157c" name="Changes" comment="" />
+      <created>1740560989151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740560989151</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
