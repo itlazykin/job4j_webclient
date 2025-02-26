@@ -1,0 +1,4 @@
+2025-02-26 12:48:00.004  INFO 13300 --- [main] r.j.r.ResttemplateApplication            : Starting ResttemplateApplication using Java 17.0.11 on GamingPC with PID 13300 (C:\projects\resttemplate\target\classes started by itlaz in C:\projects\resttemplate)
+2025-02-26 12:48:00.010 DEBUG 13300 --- [main] r.j.r.ResttemplateApplication            : Running with Spring Boot v2.7.12, Spring v5.3.27
+2025-02-26 12:48:00.011  INFO 13300 --- [main] r.j.r.ResttemplateApplication            : No active profile set, falling back to 1 default profile: "default"
+2025-02-26 12:48:03.800  INFO 13300 --- [main] r.j.r.ResttemplateApplication            : Started ResttemplateApplication in 4.544 seconds (JVM running for 5.13)
