@@ -1,0 +1,4 @@
+2025-02-26 12:54:59.217  INFO 13908 --- [main] ru.job4j.openfeign.OpenfeignApplication  : Starting OpenfeignApplication using Java 17.0.11 on GamingPC with PID 13908 (C:\projects\openfeign\target\classes started by itlaz in C:\projects\openfeign)
+2025-02-26 12:54:59.228 DEBUG 13908 --- [main] ru.job4j.openfeign.OpenfeignApplication  : Running with Spring Boot v2.7.12, Spring v5.3.27
+2025-02-26 12:54:59.229  INFO 13908 --- [main] ru.job4j.openfeign.OpenfeignApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-02-26 12:55:04.455  INFO 13908 --- [main] ru.job4j.openfeign.OpenfeignApplication  : Started OpenfeignApplication in 6.133 seconds (JVM running for 6.727)
