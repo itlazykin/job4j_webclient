@@ -1,0 +1,4 @@
+2025-02-26 13:04:55.325  INFO 11676 --- [main] ru.job4j.webclient.WebclientApplication  : Starting WebclientApplication using Java 17.0.11 on GamingPC with PID 11676 (C:\projects\webclient\target\classes started by itlaz in C:\projects\webclient)
+2025-02-26 13:04:55.332 DEBUG 11676 --- [main] ru.job4j.webclient.WebclientApplication  : Running with Spring Boot v2.7.12, Spring v5.3.27
+2025-02-26 13:04:55.333  INFO 11676 --- [main] ru.job4j.webclient.WebclientApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-02-26 13:04:59.791  INFO 11676 --- [main] ru.job4j.webclient.WebclientApplication  : Started WebclientApplication in 5.169 seconds (JVM running for 5.747)
